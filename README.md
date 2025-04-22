@@ -35,3 +35,9 @@ Materials are provided as presentations, notebooks, and mini-projects that stude
 > 🔧 Interested in joining or collaborating? Get in touch!
 
 ---
+## License
+
+- Code is licensed under the [MIT License](LICENSE).
+- Educational materials are licensed under the [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/).
+
+(c) 2025 Martyna Stasiak
