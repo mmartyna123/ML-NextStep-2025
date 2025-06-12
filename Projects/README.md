@@ -7,3 +7,4 @@ Lista projektów wykonanych w ramach spotkań sekcji *ML: Next Step*:
 |Penguin Classifier|[Palmer Penguins Dataset](https://gist.github.com/slopp/ce3b90b9168f2f921784de84fa445651)|Hubert Woźniak, Grzegorz Rozwadowski|
 |MNIST|[MNIST](https://www.kaggle.com/datasets/hojjatk/mnist-dataset/data)|Wiktor Piórkowski, Joanna Zubik|
 |Food production prediction|[Food Production Dataset](https://www.kaggle.com/datasets/rafsunahmad/world-food-production/data)|Julia Korzekwa, Filip Kokowski|
+g
